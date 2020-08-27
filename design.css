@@ -1,0 +1,111 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+#head {
+	background-color: #3b5998;
+	position: relative;
+	height: 80px;
+	width: 100%
+}
+#topfb{
+	color: white;
+	font-size: 35px;
+	position: absolute;
+	top:20px;
+	left :250px;
+	font-family: verdana;
+}
+#email {
+	color: white;
+	position: absolute;
+	left: 850px;
+	top :15px;
+}
+#pass {
+	color: white;
+	position: absolute;
+	left: 1050px;
+	top :15px;
+}
+#logbut {
+	background-color: #5d80c9;
+	width: 100px
+	border : 2px solid black;
+	height: 25px;
+	margin-left: 5px;
+	padding: 3px;
+	color:white;
+	text-decoration: none;
+}
+#create {
+	font-family: verdana;
+	position: absolute;
+	top: 100px;
+	left: 800px;
+
+}
+#mobile {
+	width : 405px;
+	height: 40px;
+	margin-top:  15px;
+	margin-bottom:   15px;
+	font-size: 20px;
+	padding-left: 10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+#first,#sur {
+	width :200px;
+	height: 40px;
+	font-size: 20px;
+	padding-left: 10px;
+	margin-top:  10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+#newpass{
+	width :405px;
+	height: 40px;
+	font-size: 20px;
+	padding-left: 10px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+.birth {
+	margin-top: 5px;
+	margin-right: 10px;
+	height: 35px;
+
+}
+#policy{
+	width: 400px;
+	font-size: 12px;
+}
+#submit {
+	height: 40px;
+	width: 200px;
+	border: 1px solid black;
+	color: white;
+	border-radius: 8px;
+	padding: 10px;
+	background-color: #0a7d06;
+	font-size: 20px
+}
+#down {
+	width: 400px;
+	font-size: 12px;
+	font-weight: bold;
+	}
+#whyfb {
+	font-family: verdana;
+	position: absolute;
+	top: 110px;
+	left: 250px;
+	color: #13056e;
+    width: 500px;
+}
+
